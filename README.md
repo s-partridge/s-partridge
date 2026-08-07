@@ -2,7 +2,7 @@
 
 Hi, I'm Sam. I have been in the software industry since 2013.
 
-My work has taken me through many different disciplines, covering machine learning, generative AI, web development, full-stack development, process automation, game development, and mobile app creation. The breadth of my experiece has given me deep knowledge across numerous technologies that I continue to apply in my projects today.
+I have been involved in software development across many specializations, including machine learning, generative AI, web development, full-stack development, process automation, game development, and mobile app creation. The breadth of my experiece has given me deep knowledge across numerous technologies that I continue to apply in my projects today.
 <!--
 **s-partridge/s-partridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
