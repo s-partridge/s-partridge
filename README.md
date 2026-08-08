@@ -2,7 +2,13 @@
 
 Hi, I'm Sam. I have been in the software industry since 2013.
 
-I have been involved in software development across many specializations, including machine learning, generative AI, web development, full-stack development, process automation, game development, and mobile app creation. The breadth of my experiece has given me deep knowledge across numerous technologies that I continue to apply in my projects today.
+I have been involved in software development across many specializations, including machine learning, generative AI, web development, full-stack development, process automation, game development, and mobile app creation. I have a deep interest in artificial intelligence, game development, and systems design.
+
+To that end, I am concurrently developing:
+- [my own testing framework](https://github.com/s-partridge/partest) in C++
+- [A game engine](https://github.com/s-partridge/constitution) from the ground up, one core system at a time
+- [A tensor framework](https://github.com/s-partridge/partensor) intended for general-purpose machine learning applications
+- Various other projects and tools, mostly coded in C++ or Python
 <!--
 **s-partridge/s-partridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
