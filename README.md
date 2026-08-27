@@ -8,7 +8,7 @@ To that end, I am concurrently developing:
 - [My own testing framework](https://github.com/s-partridge/partest) in C++
 - [A game engine](https://github.com/s-partridge/constitution) from the ground up, one core system at a time
 
-I am also busy with various other projects and tools, mostly coded in C++ or Python.
+I'm also busy with various other projects and tools, mostly coded in C++ or Python, including machine learning research, generative AI solutions, and Blender addons.
 <!--
 **s-partridge/s-partridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
