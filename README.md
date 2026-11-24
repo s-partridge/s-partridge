@@ -2,7 +2,7 @@
 
 Hi, I'm Sam. I have been in the software industry since 2013.
 
-I have been involved in software development across many specializations, including machine learning, generative AI, web development, full-stack development, process automation, game development, and mobile app creation. I have a deep interest in artificial intelligence, game development, and systems design.
+My work has taken me across many specializations, including machine learning, generative AI, web development, full-stack development, process automation, game development, and mobile app creation. I have a deep interest in artificial intelligence, game development, and systems design.
 
 To that end, I am concurrently developing:
 - [My own testing framework](https://github.com/s-partridge/partest) in C++
